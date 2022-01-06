@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a **Banking Application at my work.**
 
-- 🌱 I’m currently learning **Spring Framework, Advanced Java - Learning these in depth.**
+- 🌱 I’m currently learning **Spring Framework, Advanced Java - Learning more about these since it's used in my project.**
 
 - 👯 I’m looking to collaborate on **I’d be glad to lend a hand to help/work on any community service projects**
 
