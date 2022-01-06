@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **I’d be glad to lend a hand to help/work on any community service projects**
 
-- 💬 Ask me about **Anything, especially something I don't know.**
+- 💬 Ask me about **Anything. Something I don't know.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
