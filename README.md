@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonathanfrancisco" alt="jonathanfrancisco" /></a> </p>
 
-- 🔭 I’m currently working on **Banking Application at my work.**
+- 🔭 I’m currently working on a **Banking Application at my work.**
 
-- 🌱 I’m currently learning **Spring Framework, Java - Learning these in depth.**
+- 🌱 I’m currently learning **Spring Framework, Advanced Java - Learning these in depth.**
 
 - 👯 I’m looking to collaborate on **I’d be glad to lend a hand to help/work on any community service projects**
 
