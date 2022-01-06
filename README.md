@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Framework, Advanced Java - Learning more about these since it's used in my project.**
 
-- 👯 I’m looking to collaborate on **I’d be glad to lend a hand to help/work on any community service projects**
+- 👯 I’m looking to collaborate on **any community service projects**
 
 - 💬 Ask me about **Anything. Something I don't know.**
 
