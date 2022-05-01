@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a **Crypto Project** at my work
 
-- 🌱 I’m currently learning **AWS, System Design, Testing, and more**
+- 🌱 I’m currently learning **AWS, System Design, Testing, and many more**
 
 - 👯 I’m looking to collaborate on **any community service projects**
 
