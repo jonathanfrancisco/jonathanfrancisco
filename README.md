@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonathanfrancisco" alt="jonathanfrancisco" /></a> </p>
 
-- 🔭 I’m currently working on a **Crypto Project** at my work
+- 🔭 I’m currently working on a **Investment Funds and Crypto Platforms** at my work
 
 - 🌱 I’m currently learning **AWS, System Design, Testing, and many more**
 
