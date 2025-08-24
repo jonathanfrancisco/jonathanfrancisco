@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonathanfrancisco" alt="jonathanfrancisco" /></a> </p>
 
-- 🔭 I’m currently working on a **Core Banking Platform** at Nextbank
-- 🌱 I’m currently learning **AWS, System Design, Testing, and many more**
+- 🔭 I’m currently working on  **Super Funds** at Grow, Inc.
+- 🌱 I’m currently learning **Java, AWS, System Design, Testing, and many more**
 
 - 👯 I’m looking to collaborate on **any community service projects**
 
